@@ -12,3 +12,4 @@
 6/24 「Webを支える技術」p154-187 「ゼロイチLinux(Udemy)」DAY1<br>
 6/26 「ゼロイチLinux(Udemy)」DAY2<br>
 6/27 「ゼロイチLinux(Udemy)」DAY3.4<br>
+6/28 「ゼロイチLinux(Udemy)」DAY5.6<br>
